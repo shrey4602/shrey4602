@@ -44,11 +44,12 @@
 ## 🚀 Featured Projects
 
 ### 1. 🚗 Driver Drowsiness Detection System
-- Developed a driver drowsiness detection system using Python and OpenCV.
-- Used Eye Aspect Ratio (EAR) to detect eye closure.
-- Integrated Arduino with a buzzer to generate alerts.
+- Developed an Arduino-based driver drowsiness detection system using an IR eye blink sensor.
+- Monitored eye activity to identify prolonged eye closure.
+- Integrated an L293D motor driver to gradually reduce vehicle speed and stop the motors.
+- Activated LEDs and a buzzer to alert when drowsiness was detected.
 
-**Technologies:** Python | OpenCV | Arduino | Computer Vision
+**Technologies:** Arduino | Embedded C/C++ | IR Sensors | L293D Motor Driver
 
 ### 2. 🔐 Digital Door Lock System
 - Built an Arduino-based password-protected door lock.
