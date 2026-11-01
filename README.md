@@ -91,3 +91,17 @@
 ---
 
 ⭐ *Building, learning and growing one project at a time.*
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrey4602&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey4602&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shrey4602&theme=tokyonight&hide_border=true" />
+</p>
