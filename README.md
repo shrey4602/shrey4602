@@ -37,3 +37,36 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🚗 Driver Drowsiness Detection System
+- Developed a driver drowsiness detection system using Python and OpenCV.
+- Used Eye Aspect Ratio (EAR) to detect eye closure.
+- Integrated Arduino with a buzzer to generate alerts.
+
+**Technologies:** Python | OpenCV | Arduino | Computer Vision
+
+### 2. 🔐 Digital Door Lock System
+- Built an Arduino-based password-protected door lock.
+- Used a keypad, servo motor, LED and buzzer.
+- Implemented password verification and automatic locking.
+
+**Technologies:** Arduino | C++ | Embedded Systems
+
+### 3. 🚦 PLC-Based Traffic Light Automation
+- Developed a four-direction traffic light control system.
+- Used Siemens TIA Portal and PLC timers.
+- Explored PLC programming, logic blocks and HMI integration.
+
+**Technologies:** PLC | Siemens TIA Portal | HMI | Automation
+
+### 4. 🛒 E-commerce Recommender System
+- Developed an e-commerce recommendation project using C++.
+- Focused on product recommendations using recommendation logic.
+- Applied programming concepts and data structures to the recommendation system.
+
+**Technologies:** C++ | Data Structures & Algorithms
